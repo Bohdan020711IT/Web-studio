@@ -1,0 +1,128 @@
+:root{
+--maincolor: white;
+}
+.Container{
+    gap: 384px;
+    display: flex;
+margin-left: 215px;
+}
+.Section {
+    display: flex;
+    gap: 50px;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+
+}
+.menu {
+    display: flex;
+    gap: 50px;
+    margin-top: 32px;
+}
+.Img {
+    margin-top: 30px;
+}
+.wrap {
+display: flex;
+gap: 50px;
+    margin-top: 32px;
+}
+.el1 {
+    color: blue;
+}
+.Tel {
+    color: black;
+}
+.wrap2{
+    background-color: #2F303A;
+    width: 1600px;
+    height: 400px;
+    top: 60px;
+}
+.btn {
+    width: 215px;
+    height: 50px;
+    border: 1px solid gray;
+    margin-left: 660px;
+    margin-top: 94px;
+    background-color: #2196F3;
+    color: var(--maincolor);
+}
+.button{
+margin-left: 49px;
+margin-top: 20px;
+color: var(--maincolor);
+}
+.h1{
+    display: flex;
+    gap:100px;
+}
+.h1_1{
+    color: var(--maincolor);
+    margin-left: 420px;
+}
+.wrap3{
+    display: flex;
+    gap: 30px;
+    margin-left: 215px;
+    margin-right: 215px;
+}
+.el2 {
+    gap: 30px;
+    display: flex;
+}
+.h2{
+    margin-top: 50px;
+    margin-left: 616px;
+}
+.photo{
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+margin-left: 155px;
+width: 370px;
+height: 294px;
+}
+
+.ph_1{
+    width: 270px;
+height: 260px;
+}
+.wrap5{
+    margin-left: 100px;
+    display: flex;
+    gap: 30px;
+}
+.el4{
+    display: flex;
+    gap: 10px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.h2_2{
+    margin-top: 50px;
+    margin-left: 645px;
+}
+.footer{
+    width: 1600px;
+    height: 252px;
+    background-color: #2F303A;
+    color: #FFFFFF99;
+}
+.text{
+    color: var(--maincolor);
+    margin-left: 215px;
+    margin-top: 30px;
+}
+.ph_2{
+margin-top: 50px;
+    margin-left: 215px;
+}
+.p1{
+    margin-top: 10px;
+    margin-left: 215px;
+}
+
